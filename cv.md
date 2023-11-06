@@ -8,7 +8,7 @@
 ## About Me
 Frontend developer with experience in SPA creation using React, Redux, TypeScript/JavaScript, CSS/SCSS, HTML. 
 I prefer to spend my free time improving my English, learning new technologies, reading documentation and 
-solving tasks on Codewars.
+solving tasks on Codewars [![image](https://www.codewars.com/users/staggana/badges/micro?theme=auto)](https://www.codewars.com/users/OlgaKapskaya).
 
 ## Skills
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" title="React" alt="React" width="40" height="40"/>
